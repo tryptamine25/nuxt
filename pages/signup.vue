@@ -6,8 +6,8 @@
 </template>
 
 <script>
-import Header from "../components/Header";
-import SignUpForm from "../components/SignUpForm";
+import Header from "@/components/Header";
+import SignUpForm from "@/components/SignUpForm";
 
 export default {
   components: {

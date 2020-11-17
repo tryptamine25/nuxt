@@ -1,8 +1,8 @@
 import Vue from "vue";
 import Router from "vue-router";
 
-import Index from "../my-app/pages/index";
-import Signup from "../my-app/pages/signup";
+import Index from "@/pages/index";
+import Signup from "@/pages/signup";
 
 Vue.use(Router);
 

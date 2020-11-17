@@ -9,11 +9,11 @@
 </template>
 
 <script>
-import Header from "../components/Header";
-import CTA from "../components/CTA";
-import Features from "../components/Features";
-import Targeting from "../components/Targeting";
-import Footer from "../components/Footer";
+import Header from "@/components/Header";
+import CTA from "@/components/CTA";
+import Features from "@/components/Features";
+import Targeting from "@/components/Targeting";
+import Footer from "@/components/Footer";
 
 export default {
   components: {
